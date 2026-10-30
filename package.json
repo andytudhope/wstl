@@ -1,0 +1,20 @@
+{
+  "name": "status-lovers-wrapper",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "forge build",
+    "test": "forge test -vv",
+    "preview": "forge build && node scripts/preview.mjs",
+    "estimate": "node scripts/estimate.mjs",
+    "deploy": "node scripts/deploy.mjs",
+    "wrap": "node scripts/wrap.mjs",
+    "transfer": "node scripts/transfer.mjs",
+    "verify": "node scripts/verify.mjs"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "5.6.1",
+    "dotenv": "18.0.9",
+    "ethers": "6.17.0"
+  }
+}

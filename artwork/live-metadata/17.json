@@ -1,0 +1,95 @@
+{
+  "name": "Status Lovers #17",
+  "description": "One of the original 50 Status Lovers tokens minted on Ethereum on 29 December 2017. This ERC721 permanently holds the corresponding original token and presents new, deterministic onchain artwork. The original IPFS reference is preserved; original media was not recovered at rescue.",
+  "external_url": "https://etherscan.io/tx/0x1033ddae896879c0fb092f5c8ae6aa4ffaac16af9cd69a3c2bb45fb578b6927b",
+  "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAwIiBoZWlnaHQ9IjMwMDAiIHZpZXdCb3g9IjAgMCAxMDAwIDEwMDAiIG92ZXJmbG93PSJoaWRkZW4iPjx0aXRsZT5TdGF0dXMgTG92ZXJzICMxNzwvdGl0bGU+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iMCIgeTE9IjAiIHgyPSIxIiB5Mj0iMSIgZ3JhZGllbnRUcmFuc2Zvcm09InJvdGF0ZSgyMTcgLjUgLjUpIj48c3RvcCBzdG9wLWNvbG9yPSIjYzc4ZjY3Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjNzE0MGZkIi8+PC9saW5lYXJHcmFkaWVudD48ZmlsdGVyIGlkPSJibHVyIiB4PSItMTAwJSIgeT0iLTEwMCUiIHdpZHRoPSIzMDAlIiBoZWlnaHQ9IjMwMCUiIGNvbG9yLWludGVycG9sYXRpb24tZmlsdGVycz0ic1JHQiI+PGZlR2F1c3NpYW5CbHVyIHN0ZERldmlhdGlvbj0iNjciLz48L2ZpbHRlcj48cmFkaWFsR3JhZGllbnQgaWQ9InYiPjxzdG9wIG9mZnNldD0iLjE1IiBzdG9wLWNvbG9yPSIjMDkxMDFjIiBzdG9wLW9wYWNpdHk9IjAiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMwOTEwMWMiIHN0b3Atb3BhY2l0eT0iLjQ2Ii8+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PHJlY3Qgd2lkdGg9IjEwMDAiIGhlaWdodD0iMTAwMCIgZmlsbD0idXJsKCNiKSIvPjxnIGZpbHRlcj0idXJsKCNibHVyKSI+PGVsbGlwc2UgY3g9IjQ4NSIgY3k9IjEwMjYiIHJ4PSI1ODMiIHJ5PSI1MTgiIGZpbGw9IiNjYjYyNTYiIG9wYWNpdHk9IjAuOTUiLz48ZWxsaXBzZSBjeD0iOTM2IiBjeT0iMTE0IiByeD0iNDM2IiByeT0iMzAzIiBmaWxsPSIjYzc4ZjY3IiBvcGFjaXR5PSIwLjgiLz48ZWxsaXBzZSBjeD0iMTEyOCIgY3k9IjUzNCIgcng9IjI5OCIgcnk9IjMxOCIgZmlsbD0iIzcxNDBmZCIgb3BhY2l0eT0iMC44Ii8+PGVsbGlwc2UgY3g9IjU0MCIgY3k9IjIwOSIgcng9IjQ0MSIgcnk9IjU4MyIgZmlsbD0iI2ZmZmZmZiIgb3BhY2l0eT0iMC4xNiIvPjwvZz48cmVjdCB3aWR0aD0iMTAwMCIgaGVpZ2h0PSIxMDAwIiBmaWxsPSJ1cmwoI3YpIi8+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTQwIDE0MCkgc2NhbGUoMykiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGQ9Ik0xNzguNDQgMTExLjg2MUMxNzYuNzY3IDE0MS4wNyAxNTAuMDgyIDE2Mi42MDIgMTIwLjAwNCAxNjVDODkuOTI2OSAxNjIuNjAyIDYzLjI0MzcgMTQxLjA3IDYxLjU3MTYgMTExLjg2MUM2MC41NDc0IDkzLjkyNTYgNzEuNTEzOCA3Ni4wMTE3IDg5LjMyMjEgNzUuMDQ0MUMxMDMuNjU0IDc0LjI5MzkgMTE0LjExMSA4My4xNDkyIDExOC4xMTggOTguNjAyMUMxMTkuMDc2IDEwMi4yNTMgMTE5LjY2IDEwNS45OTMgMTE5Ljg1OSAxMDkuNzY0QzExOS45MDMgMTEwLjUzMSAxMTkuOTM2IDExMS4yODUgMTE5Ljk2IDExMi4wMjZDMTIwLjA0MiAxMTEuMzA3IDEyMC4xMDcgMTEwLjU1NCAxMjAuMTUyIDEwOS43NjRDMTIwLjM1MSAxMDUuOTkzIDEyMC45MzUgMTAyLjI1MyAxMjEuODk0IDk4LjYwMjFDMTI1LjkgODMuMTQ5MiAxMzYuMzU3IDc0LjI5MzkgMTUwLjY4OSA3NS4wNDQxQzE2OC40OTcgNzYuMDExNyAxNzkuNDY0IDkzLjkyNTYgMTc4LjQ0IDExMS44NjFaIi8+PC9nPjwvc3ZnPg==",
+  "original_contract": "0x5bb0a11b5ddc8e83c21c09fd34caf49a18e91232",
+  "original_token_id": "17",
+  "original_content": "ipfs://QmTG44cVAw4k58BNnb2AZ5PMeFYwRjcZ7qwhhNYzBrsKjP",
+  "wrapped_supply_cap": 50,
+  "provenance": {
+    "chain_id": 1,
+    "original_deployment_transaction": "0xd5015c18f9e7ced5d9e425d81f1865b1e26981c8b17c99a239a994685b86f653",
+    "original_deployment_block": 4816690,
+    "original_deployment_timestamp": 1514527717,
+    "original_mint_transaction": "0x1033ddae896879c0fb092f5c8ae6aa4ffaac16af9cd69a3c2bb45fb578b6927b",
+    "original_mint_block": 4816694,
+    "original_mint_timestamp": 1514527767,
+    "original_minter": "0x5f3371793285920351344a1eaaaa48d45e600652",
+    "rescue_block": 26305301,
+    "rescue_timestamp": 1793360027,
+    "original_media_status_at_rescue": "Not recovered"
+  },
+  "artwork": {
+    "year": 2026,
+    "medium": "Onchain generative SVG",
+    "generator": "StatusLoversArt v1",
+    "logo_credit": "Status",
+    "logo_source": "https://status.app/brand"
+  },
+  "attributes": [
+    {
+      "display_type": "date",
+      "trait_type": "Original mint date",
+      "value": 1514527767
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Original mint block",
+      "value": 4816694
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Original token ID",
+      "value": 17
+    },
+    {
+      "trait_type": "Edition",
+      "value": "Original 50"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Wrapped edition size",
+      "value": 50
+    },
+    {
+      "trait_type": "Preservation",
+      "value": "Original permanently escrowed"
+    },
+    {
+      "display_type": "date",
+      "trait_type": "Rescue date",
+      "value": 1793360027
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Rescue block",
+      "value": 26305301
+    },
+    {
+      "trait_type": "Original media at rescue",
+      "value": "Not recovered"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Artwork year",
+      "value": 2026
+    },
+    {
+      "trait_type": "Artwork",
+      "value": "Onchain generative SVG"
+    },
+    {
+      "trait_type": "Gradient colour 1",
+      "value": "Camel"
+    },
+    {
+      "trait_type": "Gradient colour 2",
+      "value": "Purple"
+    },
+    {
+      "trait_type": "Accent colour",
+      "value": "Copper"
+    }
+  ]
+}
