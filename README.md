@@ -4,15 +4,6 @@ A small [OpenZeppelin ERC721](https://docs.openzeppelin.com/contracts/5.x/erc721
 
 **Live on Ethereum mainnet:** [`0x181a52b6E9cb690Aa7E0C9469175d908d64800dD`](https://etherscan.io/address/0x181a52b6E9cb690Aa7E0C9469175d908d64800dD#code).
 
-**Wrapping completed on 30 October 2026.** All 50 originals are permanently held by the
-wrapper, and all 50 wrapped NFTs belong to the seller. The source is verified, and all
-50 items and matching images are indexed on [OpenSea](https://opensea.io/collection/status-lovers-still).
-The live escrow sale and refund passed read-only simulations; no sale was executed.
-
-See [the verification report](collection-ready.json) for every token and transaction, and
-[the buyer handover guide](BUYER.md) for payment instructions. Deployment and both wrapping
-batches used 53 transactions and cost **0.002565560455303066 ETH** in total fees.
-
 - Only original token IDs **0–49** can be wrapped, once each, after being deposited.
 - Originals stay in the wrapper **permanently**. No unwrap, admin, upgrade, or extra mint function.
 - Wrapped receipts can be transferred and approved for marketplace trading normally.
