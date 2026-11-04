@@ -10,6 +10,7 @@
     "deploy": "node scripts/deploy.mjs",
     "wrap": "node scripts/wrap.mjs",
     "transfer": "node scripts/transfer.mjs",
+    "sale": "node scripts/sale.mjs",
     "verify": "node scripts/verify.mjs"
   },
   "dependencies": {
